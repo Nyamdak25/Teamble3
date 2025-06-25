@@ -1,0 +1,12 @@
+ {
+    "name": "my-vue-app",
+    "version": "0.1.0",
+    "dependencies": {
+        "vue": "3.5.13",
+        "core-js": "3.42.0",
+        "@vue/Compiler-sfc" : "3.5.13",
+        "@vuecli-service": "5.0.10"
+        
+    
+    }
+ }
