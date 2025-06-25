@@ -1,5 +1,4 @@
 # Teamble
-my new app
-## My first code
+my new application
 
-This application runs on port 3000
+## My first code
