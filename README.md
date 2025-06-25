@@ -5,4 +5,4 @@ my new application
 
 This application runs on port 3000
 
-This changes was executed by anotther team member
+This changes was executed by another team member
