@@ -1,4 +1,4 @@
 Const UserProfile = {}
-Const UserProfile = "King David"
+Const UserProfile = "King David Nyamedor"
 
 Const test = []
